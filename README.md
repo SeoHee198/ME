@@ -1,5 +1,6 @@
 # ME
 Musical Entertainment 프로젝트
+(아마추어 뮤지컬 배우 등록 사이트)
 
 1.ME 프로젝트 기획서 - 코딩 전 제작한 산출물
 
